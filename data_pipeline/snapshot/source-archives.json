@@ -1,0 +1,20 @@
+{
+  "RusLit.zip": {
+    "url": "https://codeload.github.com/d0rj/RusLit/zip/4509680428729da225a73a22008133660f92bb7e",
+    "bytes": 20253009,
+    "sha256": "76cf8a91353c62b49dad7c282c5a6d42dcc5f8b0ab27f910ebdc8009579c8993"
+  },
+  "RSD.zip": {
+    "url": "https://codeload.github.com/nevmenandr/RSD/zip/476876e8a5c430fb0f6e147bf1519c9b43699261",
+    "bytes": 65488631,
+    "sha256": "da1200953991b51e71b3736b08489fce16fc71a45a309563e83c27ccf23c503e"
+  },
+  "narrative-texts.zip": {
+    "url": "https://dataverse.pushdom.ru/api/access/datafile/5915",
+    "doi": "10.31860/openlit-2020.10-C004",
+    "version": "4.0",
+    "md5": "8dcc41eaa715dc0bece1db6fcf25242a",
+    "bytes": 97829899,
+    "sha256": "93a1733092bf759bd59656d0582076f8c535cdf5a1adaf007a9e8683d737136c"
+  }
+}

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.runtime/
+.DS_Store
+.env
+.env.*
+data/
+data_pipeline/cache/
+runs/
+assets/
+*.bin
+*.npy
+*.npz
+checkpoints/*
+!checkpoints/best.pt
